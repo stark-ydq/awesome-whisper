@@ -143,6 +143,8 @@
 - [Whisper+](https://www.oneai.com/speech-to-text) - Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.
 - [Replicate](https://replicate.com/openai/whisper) - Use Whisper running on Replicate.
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
+
 ## Related lists
 
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - ChatGPT resources.
